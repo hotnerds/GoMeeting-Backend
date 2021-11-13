@@ -1,0 +1,444 @@
+2021-11-12 18:06:58 info: Server is running on PORT: 3000
+2021-11-12 18:07:00 info: MongoDB is running
+2021-11-12 18:08:31 info: Server is running on PORT: 3000
+2021-11-12 18:08:33 info: MongoDB is running
+2021-11-12 18:10:06 info: Server is running on PORT: 3000
+2021-11-12 18:10:08 info: MongoDB is running
+2021-11-12 18:12:38 info: Server is running on PORT: 3000
+2021-11-12 18:12:40 info: MongoDB is running
+2021-11-12 18:12:52 info: [passport]: get OAuthService
+2021-11-12 18:18:54 info: Server is running on PORT: 3000
+2021-11-12 18:18:56 info: MongoDB is running
+2021-11-12 18:19:07 info: [passport]: get OAuthService
+2021-11-12 18:22:14 info: Server is running on PORT: 3000
+2021-11-12 18:22:16 info: MongoDB is running
+2021-11-12 18:22:18 info: Server is running on PORT: 3000
+2021-11-12 18:22:20 info: MongoDB is running
+2021-11-12 18:22:30 info: [passport]: get OAuthService
+2021-11-12 18:22:30 info: [SignIn]: validate it is registered
+2021-11-12 18:22:30 info: [isRegistered]: try to find user
+2021-11-12 18:22:30 info: [isRegistered]: user is not found
+2021-11-12 18:22:30 info: [SignIn]: user is not validated and create user
+2021-11-12 18:22:30 info: User is created...
+2021-11-12 18:22:30 info: User is saved...
+2021-11-12 18:26:11 info: Server is running on PORT: 3000
+2021-11-12 18:26:13 info: MongoDB is running
+2021-11-12 18:26:20 info: [passport]: get OAuthService
+2021-11-12 18:26:20 info: [SignIn]: validate it is registered
+2021-11-12 18:26:20 info: [isRegistered]: try to find user
+2021-11-12 18:26:20 info: [isRegistered]: user is found
+2021-11-12 18:26:20 info: [SignIn]: user is validated and return token
+2021-11-12 18:26:20 info: [passport]: user is signined
+2021-11-12 18:27:59 info: Server is running on PORT: 3000
+2021-11-12 18:28:01 info: MongoDB is running
+2021-11-12 18:28:06 info: [passport]: get OAuthService
+2021-11-12 18:28:06 info: [SignIn]: validate it is registered
+2021-11-12 18:28:06 info: [isRegistered]: try to find user
+2021-11-12 18:28:06 info: [isRegistered]: user is found
+2021-11-12 18:28:06 info: [SignIn]: user is validated and return token
+2021-11-12 18:28:07 info: [passport]: user is signined
+2021-11-12 18:35:19 info: Server is running on PORT: 3000
+2021-11-12 18:35:21 info: MongoDB is running
+2021-11-12 18:35:36 info: [passport]: get OAuthService
+2021-11-12 18:35:36 info: [SignIn]: validate it is registered
+2021-11-12 18:35:36 info: [isRegistered]: try to find user
+2021-11-12 18:35:36 info: [isRegistered]: user is found
+2021-11-12 18:35:36 info: [SignIn]: user is validated and return token
+2021-11-12 18:35:36 info: [passport]: user is signined
+2021-11-12 18:39:12 info: Server is running on PORT: 3000
+2021-11-12 18:39:15 info: MongoDB is running
+2021-11-12 18:39:25 info: [passport]: get OAuthService
+2021-11-12 18:39:25 info: [SignIn]: validate it is registered
+2021-11-12 18:39:25 info: [isRegistered]: try to find user
+2021-11-12 18:39:25 info: [isRegistered]: user is found
+2021-11-12 18:39:25 info: [SignIn]: user is validated and return token
+2021-11-12 18:39:26 info: [passport]: user is signined
+2021-11-12 18:39:47 info: Server is running on PORT: 3000
+2021-11-12 18:39:49 info: MongoDB is running
+2021-11-12 18:39:55 info: [passport]: get OAuthService
+2021-11-12 18:39:55 info: [SignIn]: validate it is registered
+2021-11-12 18:39:55 info: [isRegistered]: try to find user
+2021-11-12 18:39:55 info: [isRegistered]: user is found
+2021-11-12 18:39:55 info: [SignIn]: user is validated and return token
+2021-11-12 18:39:55 info: [passport]: user is signined
+2021-11-12 18:41:34 info: Server is running on PORT: 3000
+2021-11-12 18:41:36 info: MongoDB is running
+2021-11-12 18:41:40 info: token undefined
+2021-11-12 18:42:18 info: Server is running on PORT: 3000
+2021-11-12 18:42:20 info: MongoDB is running
+2021-11-12 18:42:23 info: [passport]: get OAuthService
+2021-11-12 18:42:23 info: [SignIn]: validate it is registered
+2021-11-12 18:42:23 info: [isRegistered]: try to find user
+2021-11-12 18:42:23 info: [isRegistered]: user is found
+2021-11-12 18:42:23 info: [SignIn]: user is validated and return token
+2021-11-12 18:42:23 info: [passport]: user is signined
+2021-11-12 18:47:29 info: Server is running on PORT: 3000
+2021-11-12 18:47:31 info: MongoDB is running
+2021-11-12 18:47:46 info: Server is running on PORT: 3000
+2021-11-12 18:47:48 info: MongoDB is running
+2021-11-12 18:47:53 info: [passport]: get OAuthService
+2021-11-12 18:47:53 info: [SignIn]: validate it is registered
+2021-11-12 18:47:53 info: [isRegistered]: try to find user
+2021-11-12 18:47:54 info: [isRegistered]: user is found
+2021-11-12 18:47:54 info: [SignIn]: user is validated and return token
+2021-11-12 18:47:54 info: [passport]: user is signined
+2021-11-12 18:48:10 info: Server is running on PORT: 3000
+2021-11-12 18:48:12 info: MongoDB is running
+2021-11-12 18:48:16 info: [passport]: get OAuthService
+2021-11-12 18:48:16 info: [SignIn]: validate it is registered
+2021-11-12 18:48:16 info: [isRegistered]: try to find user
+2021-11-12 18:48:16 info: [isRegistered]: user is found
+2021-11-12 18:48:16 info: [SignIn]: user is validated and return token
+2021-11-12 18:48:16 info: [passport]: user is signined
+2021-11-12 18:48:16 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzE0MDk2LCJpYXQiOjE2MzY3MTA0OTZ9.xOD-qKev-EwVcAM9b8NZKevepFswS654cMsnKeG0t6g
+2021-11-12 18:49:36 info: Server is running on PORT: 3000
+2021-11-12 18:49:37 info: MongoDB is running
+2021-11-12 18:50:19 info: Server is running on PORT: 3000
+2021-11-12 18:50:21 info: MongoDB is running
+2021-11-12 18:52:24 info: Server is running on PORT: 3000
+2021-11-12 18:52:26 info: MongoDB is running
+2021-11-12 18:52:30 info: [passport]: get OAuthService
+2021-11-12 18:52:30 info: [SignIn]: validate it is registered
+2021-11-12 18:52:30 info: [isRegistered]: try to find user
+2021-11-12 18:52:30 info: [isRegistered]: user is found
+2021-11-12 18:52:30 info: [SignIn]: user is validated and return token
+2021-11-12 18:52:30 info: [passport]: user is signined
+2021-11-12 18:52:30 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzE0MzUwLCJpYXQiOjE2MzY3MTA3NTB9.mV_0625Ds95JVGzJd-hA5cispYbQKlA2j8a5JKuuLUg
+2021-11-12 18:52:56 info: Server is running on PORT: 3000
+2021-11-12 18:52:58 info: MongoDB is running
+2021-11-12 18:53:05 info: [passport]: get OAuthService
+2021-11-12 18:53:05 info: [SignIn]: validate it is registered
+2021-11-12 18:53:05 info: [isRegistered]: try to find user
+2021-11-12 18:53:05 info: [isRegistered]: user is found
+2021-11-12 18:53:05 info: [SignIn]: user is validated and return token
+2021-11-12 18:53:05 info: [passport]: user is signined
+2021-11-12 18:53:05 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzE0Mzg1LCJpYXQiOjE2MzY3MTA3ODV9.iMArw_LCCi37E9ff2uk2eKv3auJr9yOmlcasKn5vORo
+2021-11-12 18:53:21 info: Server is running on PORT: 3000
+2021-11-12 18:53:23 info: MongoDB is running
+2021-11-12 18:53:25 info: [passport]: get OAuthService
+2021-11-12 18:53:25 info: [SignIn]: validate it is registered
+2021-11-12 18:53:25 info: [isRegistered]: try to find user
+2021-11-12 18:53:25 info: [isRegistered]: user is found
+2021-11-12 18:53:25 info: [SignIn]: user is validated and return token
+2021-11-12 18:53:26 info: [passport]: user is signined
+2021-11-12 18:53:26 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzE0NDA2LCJpYXQiOjE2MzY3MTA4MDZ9.jb6LgSpW32GoPipEkCgV6_usIul0-LMjRwCePGawv5k
+2021-11-12 19:04:42 info: [passport]: get OAuthService
+2021-11-12 19:04:42 info: [SignIn]: validate it is registered
+2021-11-12 19:04:42 info: [isRegistered]: try to find user
+2021-11-12 19:04:42 info: [isRegistered]: user is found
+2021-11-12 19:04:42 info: [SignIn]: user is validated and return token
+2021-11-12 19:04:42 info: [passport]: user is signined
+2021-11-12 19:04:42 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzE1MDgyLCJpYXQiOjE2MzY3MTE0ODJ9.GpUVAv7uU373w3jt7BAUQnh-fU8SMg6sY3MiZHJ9BHM
+2021-11-12 19:05:06 info: [passport]: get OAuthService
+2021-11-12 19:05:06 info: [SignIn]: validate it is registered
+2021-11-12 19:05:06 info: [isRegistered]: try to find user
+2021-11-12 19:05:06 info: [isRegistered]: user is found
+2021-11-12 19:05:06 info: [SignIn]: user is validated and return token
+2021-11-12 19:05:07 info: [passport]: user is signined
+2021-11-12 19:05:07 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzE1MTA3LCJpYXQiOjE2MzY3MTE1MDd9.qsAenGRjYVXvRmx35Ae6RaTkhuTm9de212luwAcG5pE
+2021-11-12 19:06:14 info: Server is running on PORT: 3000
+2021-11-12 19:06:16 info: MongoDB is running
+2021-11-12 19:06:28 info: [passport]: get OAuthService
+2021-11-12 19:06:28 info: [SignIn]: validate it is registered
+2021-11-12 19:06:28 info: [isRegistered]: try to find user
+2021-11-12 19:06:28 info: [isRegistered]: user is found
+2021-11-12 19:06:28 info: [SignIn]: user is validated and return token
+2021-11-12 19:06:28 info: [passport]: user is signined
+2021-11-12 19:06:28 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzE1MTg4LCJpYXQiOjE2MzY3MTE1ODh9.HKc48wkj0YhSM0TY-zW5k2ubZ41asZrdloMRMqeuVa4
+2021-11-12 19:08:08 info: Server is running on PORT: 3000
+2021-11-12 19:08:10 info: MongoDB is running
+2021-11-12 19:08:19 info: [passport]: get OAuthService
+2021-11-12 19:08:19 info: [SignIn]: validate it is registered
+2021-11-12 19:08:19 info: [isRegistered]: try to find user
+2021-11-12 19:08:20 info: [isRegistered]: user is found
+2021-11-12 19:08:20 info: [SignIn]: user is validated and return token
+2021-11-12 19:08:20 info: [passport]: user is signined
+2021-11-12 19:08:20 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzE1MzAwLCJpYXQiOjE2MzY3MTE3MDB9.XiqETiKh70SXRpSsfib34nS6lGRl_z2oqbiQjH2OvqU
+2021-11-12 19:09:04 info: [passport]: get OAuthService
+2021-11-12 19:09:04 info: [SignIn]: validate it is registered
+2021-11-12 19:09:04 info: [isRegistered]: try to find user
+2021-11-12 19:09:05 info: [isRegistered]: user is found
+2021-11-12 19:09:05 info: [SignIn]: user is validated and return token
+2021-11-12 19:09:05 info: [passport]: user is signined
+2021-11-12 19:09:05 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzE1MzQ1LCJpYXQiOjE2MzY3MTE3NDV9.0EGt5RbXGHqCWKDJcxti5l2aK-49VnXd2dQ6HiTLkDI
+2021-11-12 19:11:30 info: [passport]: get OAuthService
+2021-11-12 19:11:30 info: [SignIn]: validate it is registered
+2021-11-12 19:11:30 info: [isRegistered]: try to find user
+2021-11-12 19:11:30 info: [isRegistered]: user is found
+2021-11-12 19:11:30 info: [SignIn]: user is validated and return token
+2021-11-12 19:11:30 info: [passport]: user is signined
+2021-11-12 19:11:30 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzE1NDkwLCJpYXQiOjE2MzY3MTE4OTB9.k5jbcKA_BU_SjqcJOIHaQ0eceVMDUJI5RT-pvpqBB2E
+2021-11-12 20:19:08 info: Server is running on PORT: 3000
+2021-11-12 20:19:10 info: MongoDB is running
+2021-11-12 20:19:26 info: Server is running on PORT: 3000
+2021-11-12 20:19:28 info: MongoDB is running
+2021-11-12 20:19:39 info: [passport]: get OAuthService
+2021-11-12 20:19:39 info: [SignIn]: validate it is registered
+2021-11-12 20:19:39 info: [isRegistered]: try to find user
+2021-11-12 20:19:39 info: [isRegistered]: user is found
+2021-11-12 20:19:39 info: [SignIn]: user is validated and return token
+2021-11-12 20:19:40 info: [passport]: user is signined
+2021-11-12 20:19:40 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzE5NTgwLCJpYXQiOjE2MzY3MTU5ODB9.ixIHWpkBwyg6p_MjSG1UQiWCefoTXP52IYTxKPxC368
+2021-11-12 20:19:49 info: [passport]: get OAuthService
+2021-11-12 20:19:49 info: [SignIn]: validate it is registered
+2021-11-12 20:19:49 info: [isRegistered]: try to find user
+2021-11-12 20:19:49 info: [isRegistered]: user is found
+2021-11-12 20:19:49 info: [SignIn]: user is validated and return token
+2021-11-12 20:19:50 info: [passport]: user is signined
+2021-11-12 20:19:50 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzE5NTkwLCJpYXQiOjE2MzY3MTU5OTB9.ymFp63wFUAqNjX_QvX15MzHu0d-bi0dRBZEP7DYCAy0
+2021-11-12 20:20:22 info: Server is running on PORT: 3000
+2021-11-12 20:20:23 info: MongoDB is running
+2021-11-12 20:20:29 info: [passport]: get OAuthService
+2021-11-12 20:20:29 info: [SignIn]: validate it is registered
+2021-11-12 20:20:29 info: [isRegistered]: try to find user
+2021-11-12 20:20:29 info: [isRegistered]: user is found
+2021-11-12 20:20:29 info: [SignIn]: user is validated and return token
+2021-11-12 20:20:29 info: [passport]: user is signined
+2021-11-12 20:20:29 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzE5NjI5LCJpYXQiOjE2MzY3MTYwMjl9.UmHgYqE6c0CGXmL02HuN4bMxUFXunBwPxVcArIaBpUo
+2021-11-12 20:22:06 info: Server is running on PORT: 3000
+2021-11-12 20:22:08 info: MongoDB is running
+2021-11-12 20:22:14 info: [passport]: get OAuthService
+2021-11-12 20:22:14 info: [SignIn]: validate it is registered
+2021-11-12 20:22:14 info: [isRegistered]: try to find user
+2021-11-12 20:22:14 info: [isRegistered]: user is found
+2021-11-12 20:22:14 info: [SignIn]: user is validated and return token
+2021-11-12 20:22:14 info: [passport]: user is signined
+2021-11-12 20:22:14 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzE5NzM0LCJpYXQiOjE2MzY3MTYxMzR9.LNbLz0Q3rBDb-yiO1ZIhpAAM8vWeUCUp_kmutmCwIG4
+2021-11-12 20:22:57 info: Server is running on PORT: 3000
+2021-11-12 20:22:59 info: MongoDB is running
+2021-11-12 20:23:03 info: [passport]: get OAuthService
+2021-11-12 20:23:03 info: [SignIn]: validate it is registered
+2021-11-12 20:23:03 info: [isRegistered]: try to find user
+2021-11-12 20:23:03 info: [isRegistered]: user is found
+2021-11-12 20:23:03 info: [SignIn]: user is validated and return token
+2021-11-12 20:23:04 info: [passport]: user is signined
+2021-11-12 20:23:04 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzE5Nzg0LCJpYXQiOjE2MzY3MTYxODR9.O-oxiaIO97hMoVf7WddWALpxT4s1Lp3kLquKwSR_QK8
+2021-11-12 20:23:29 info: Server is running on PORT: 3000
+2021-11-12 20:23:31 info: MongoDB is running
+2021-11-12 20:23:34 info: [passport]: get OAuthService
+2021-11-12 20:23:34 info: [SignIn]: validate it is registered
+2021-11-12 20:23:34 info: [isRegistered]: try to find user
+2021-11-12 20:23:34 info: [isRegistered]: user is found
+2021-11-12 20:23:34 info: [SignIn]: user is validated and return token
+2021-11-12 20:23:34 info: [passport]: user is signined
+2021-11-12 20:23:34 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzE5ODE0LCJpYXQiOjE2MzY3MTYyMTR9.EV9q36hpEhy_QNsBZ6irslJCV0ZaxZ8oubx-ZSNgHH0
+2021-11-12 20:23:52 info: Server is running on PORT: 3000
+2021-11-12 20:23:54 info: MongoDB is running
+2021-11-12 20:24:00 info: Server is running on PORT: 3000
+2021-11-12 20:24:02 info: MongoDB is running
+2021-11-12 20:24:05 info: [passport]: get OAuthService
+2021-11-12 20:24:05 info: [SignIn]: validate it is registered
+2021-11-12 20:24:05 info: [isRegistered]: try to find user
+2021-11-12 20:24:05 info: [isRegistered]: user is found
+2021-11-12 20:24:05 info: [SignIn]: user is validated and return token
+2021-11-12 20:24:05 info: [passport]: user is signined
+2021-11-12 20:24:05 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzE5ODQ1LCJpYXQiOjE2MzY3MTYyNDV9.elzrRwAP7nnh56BqzkDBcZA9VZFKKyNqcUrP5GTDGGg
+2021-11-12 20:24:25 info: Server is running on PORT: 3000
+2021-11-12 20:24:26 info: MongoDB is running
+2021-11-12 20:24:38 info: [passport]: get OAuthService
+2021-11-12 20:24:38 info: [SignIn]: validate it is registered
+2021-11-12 20:24:38 info: [isRegistered]: try to find user
+2021-11-12 20:24:38 info: [isRegistered]: user is found
+2021-11-12 20:24:38 info: [SignIn]: user is validated and return token
+2021-11-12 20:24:38 info: [passport]: user is signined
+2021-11-12 20:24:38 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzE5ODc4LCJpYXQiOjE2MzY3MTYyNzh9.-Mlb7i0WlrTtroN4YL6OFlf2qVt4inxtPqEmc3eVsZM
+2021-11-12 20:39:12 info: Server is running on PORT: 3000
+2021-11-12 20:39:14 info: MongoDB is running
+2021-11-12 20:39:32 info: Server is running on PORT: 3000
+2021-11-12 20:39:34 info: MongoDB is running
+2021-11-12 20:39:38 info: [passport]: get OAuthService
+2021-11-12 20:39:38 info: [SignIn]: validate it is registered
+2021-11-12 20:39:38 info: [isRegistered]: try to find user
+2021-11-12 20:39:38 info: [isRegistered]: user is found
+2021-11-12 20:39:38 info: [SignIn]: user is validated and return token
+2021-11-12 20:39:38 info: [passport]: user is signined
+2021-11-12 20:39:38 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzIwNzc4LCJpYXQiOjE2MzY3MTcxNzh9.IjtUo8_I4p6KYqO1XMmUIqocMuh6ZcROOqZ5kU8WkFs
+2021-11-12 20:40:13 info: Server is running on PORT: 3000
+2021-11-12 20:40:15 info: MongoDB is running
+2021-11-12 20:40:19 info: [passport]: get OAuthService
+2021-11-12 20:40:19 info: [SignIn]: validate it is registered
+2021-11-12 20:40:19 info: [isRegistered]: try to find user
+2021-11-12 20:40:19 info: [isRegistered]: user is found
+2021-11-12 20:40:19 info: [SignIn]: user is validated and return token
+2021-11-12 20:40:19 info: [passport]: user is signined
+2021-11-12 20:40:19 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzIwODE5LCJpYXQiOjE2MzY3MTcyMTl9.UoiBNhCfKUpDBxZVT6TKuhaVZ2pNRLYcfF5sdXE2VCw
+2021-11-12 20:40:34 info: Server is running on PORT: 3000
+2021-11-12 20:40:36 info: MongoDB is running
+2021-11-12 20:40:38 info: [passport]: get OAuthService
+2021-11-12 20:40:38 info: [SignIn]: validate it is registered
+2021-11-12 20:40:38 info: [isRegistered]: try to find user
+2021-11-12 20:40:38 info: [isRegistered]: user is found
+2021-11-12 20:40:38 info: [SignIn]: user is validated and return token
+2021-11-12 20:40:38 info: [passport]: user is signined
+2021-11-12 20:40:38 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzIwODM4LCJpYXQiOjE2MzY3MTcyMzh9.PSi95bESfrhMFqiF8W3BI2Ctgpazed4OyG6goTF3wbA
+2021-11-12 20:42:00 info: Server is running on PORT: 3000
+2021-11-12 20:42:01 info: MongoDB is running
+2021-11-12 20:42:17 info: Server is running on PORT: 3000
+2021-11-12 20:42:19 info: MongoDB is running
+2021-11-12 20:42:24 info: [passport]: get OAuthService
+2021-11-12 20:42:24 info: [SignIn]: validate it is registered
+2021-11-12 20:42:24 info: [isRegistered]: try to find user
+2021-11-12 20:42:24 info: [isRegistered]: user is found
+2021-11-12 20:42:24 info: [SignIn]: user is validated and return token
+2021-11-12 20:42:25 info: [passport]: user is signined
+2021-11-12 20:42:25 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzIwOTQ1LCJpYXQiOjE2MzY3MTczNDV9.SvMIMAP6JQQc7VWw_vX0syMA0s57gE84F0qyoLeC3Ao
+2021-11-12 20:46:44 info: Server is running on PORT: 3000
+2021-11-12 20:46:45 info: MongoDB is running
+2021-11-12 20:46:50 info: [passport]: get OAuthService
+2021-11-12 20:46:50 info: [SignIn]: validate it is registered
+2021-11-12 20:46:50 info: [isRegistered]: try to find user
+2021-11-12 20:46:50 info: [isRegistered]: user is found
+2021-11-12 20:46:50 info: [SignIn]: user is validated and return token
+2021-11-12 20:46:51 info: [passport]: user is signined
+2021-11-12 20:46:51 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzIxMjExLCJpYXQiOjE2MzY3MTc2MTF9.hNQo1Z5FYG2pMYQlL8DyT4tnziY5pxZ2aN85hf6_st0
+2021-11-12 20:50:48 info: Server is running on PORT: 3000
+2021-11-12 20:50:50 info: MongoDB is running
+2021-11-12 21:12:59 info: Server is running on PORT: 3000
+2021-11-12 21:13:01 info: MongoDB is running
+2021-11-12 21:13:03 info: Server is running on PORT: 3000
+2021-11-12 21:13:05 info: MongoDB is running
+2021-11-12 21:13:48 info: Server is running on PORT: 3000
+2021-11-12 21:13:50 info: MongoDB is running
+2021-11-12 21:14:23 info: Server is running on PORT: 3000
+2021-11-12 21:14:24 info: MongoDB is running
+2021-11-12 21:15:44 info: Server is running on PORT: 3000
+2021-11-12 21:15:46 info: MongoDB is running
+2021-11-12 21:16:28 info: Server is running on PORT: 3000
+2021-11-12 21:16:30 info: MongoDB is running
+2021-11-12 21:18:27 info: Server is running on PORT: 3000
+2021-11-12 21:18:29 info: MongoDB is running
+2021-11-12 21:19:07 info: Server is running on PORT: 3000
+2021-11-12 21:19:09 info: MongoDB is running
+2021-11-12 21:21:09 info: Server is running on PORT: 3000
+2021-11-12 21:21:11 info: MongoDB is running
+2021-11-12 21:21:19 info: [passport]: get OAuthService
+2021-11-12 21:21:19 info: [SignIn]: validate it is registered
+2021-11-12 21:21:19 info: [isRegistered]: try to find user
+2021-11-12 21:21:19 info: [isRegistered]: user is found
+2021-11-12 21:21:19 info: [SignIn]: user is validated and return token
+2021-11-12 21:21:19 info: [passport]: user is signined
+2021-11-12 21:21:19 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzIzMjc5LCJpYXQiOjE2MzY3MTk2Nzl9.WJzPUpEA4nhykaz-ua2l2N5SY4Ooyc7Om6yNjrR6dBA
+2021-11-12 21:22:11 info: Server is running on PORT: 3000
+2021-11-12 21:22:12 info: MongoDB is running
+2021-11-12 21:22:22 info: Server is running on PORT: 3000
+2021-11-12 21:22:24 info: MongoDB is running
+2021-11-12 21:22:26 info: [passport]: get OAuthService
+2021-11-12 21:22:26 info: [SignIn]: validate it is registered
+2021-11-12 21:22:26 info: [isRegistered]: try to find user
+2021-11-12 21:22:26 info: [isRegistered]: user is not found
+2021-11-12 21:22:57 info: Server is running on PORT: 3000
+2021-11-12 21:22:59 info: MongoDB is running
+2021-11-12 21:23:03 info: [passport]: get OAuthService
+2021-11-12 21:23:03 info: [SignIn]: validate it is registered
+2021-11-12 21:23:03 info: [isRegistered]: try to find user
+2021-11-12 21:23:03 info: [isRegistered]: user is found
+2021-11-12 21:23:03 info: [SignIn]: user is validated and return token
+2021-11-12 21:23:03 info: [passport]: user is signined
+2021-11-12 21:23:03 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzIzMzgzLCJpYXQiOjE2MzY3MTk3ODN9.--XsTQl46HuUF5C7TeTyoDnbwfvdHJl8pPgY-ZOXSSI
+2021-11-12 21:24:13 info: Server is running on PORT: 3000
+2021-11-12 21:24:15 info: MongoDB is running
+2021-11-12 21:24:17 info: [passport]: get OAuthService
+2021-11-12 21:24:17 info: [SignIn]: validate it is registered
+2021-11-12 21:24:17 info: [isRegistered]: try to find user
+2021-11-12 21:24:18 info: [isRegistered]: user is not found
+2021-11-12 21:25:10 info: Server is running on PORT: 3000
+2021-11-12 21:25:12 info: MongoDB is running
+2021-11-12 21:25:22 info: [passport]: get OAuthService
+2021-11-12 21:25:22 info: [SignIn]: validate it is registered
+2021-11-12 21:25:22 info: [isRegistered]: try to find user
+2021-11-12 21:25:22 info: [isRegistered]: user is found
+2021-11-12 21:25:22 info: [SignIn]: user is validated and return token
+2021-11-12 21:25:22 info: [passport]: user is signined
+2021-11-12 21:25:22 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzIzNTIyLCJpYXQiOjE2MzY3MTk5MjJ9.sZR9E-20_uUjyLqNhNlZnSh08K_3CgVyzIbEjGfo-tw
+2021-11-12 21:26:15 info: Server is running on PORT: 3000
+2021-11-12 21:26:17 info: MongoDB is running
+2021-11-12 21:26:22 info: [passport]: get OAuthService
+2021-11-12 21:26:22 info: [SignIn]: validate it is registered
+2021-11-12 21:26:22 info: [isRegistered]: try to find user
+2021-11-12 21:26:23 info: [isRegistered]: user is found
+2021-11-12 21:26:23 info: [SignIn]: user is validated and return token
+2021-11-12 21:26:23 info: [passport]: user is signined
+2021-11-12 21:26:23 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzIzNTgzLCJpYXQiOjE2MzY3MTk5ODN9.e7dh3AiUDGscj25ti9T_Ozk5tzNlGrHQvvLfsPFgKnw
+2021-11-12 21:27:00 info: Server is running on PORT: 3000
+2021-11-12 21:27:02 info: MongoDB is running
+2021-11-12 21:27:05 info: [passport]: get OAuthService
+2021-11-12 21:27:05 info: [SignIn]: validate it is registered
+2021-11-12 21:27:05 info: [isRegistered]: try to find user
+2021-11-12 21:27:05 info: [isRegistered]: user is found
+2021-11-12 21:27:05 info: [SignIn]: user is validated and return token
+2021-11-12 21:27:05 info: [passport]: user is signined
+2021-11-12 21:27:05 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzIzNjI1LCJpYXQiOjE2MzY3MjAwMjV9.q4Qpiyk10Y9uPBm3EU8aC6ReQSEk8XW2fkZL1VWEzCI
+2021-11-12 21:27:16 info: Server is running on PORT: 3000
+2021-11-12 21:27:18 info: MongoDB is running
+2021-11-12 21:29:01 info: Server is running on PORT: 3000
+2021-11-12 21:29:03 info: MongoDB is running
+2021-11-12 21:29:22 info: Server is running on PORT: 3000
+2021-11-12 21:29:24 info: MongoDB is running
+2021-11-12 21:29:32 info: [passport]: get OAuthService
+2021-11-12 21:29:32 info: [SignIn]: validate it is registered
+2021-11-12 21:29:32 info: [isRegistered]: try to find user
+2021-11-12 21:29:32 info: [isRegistered]: user is not found
+2021-11-12 21:30:27 info: Server is running on PORT: 3000
+2021-11-12 21:30:29 info: MongoDB is running
+2021-11-12 21:30:48 info: Server is running on PORT: 3000
+2021-11-12 21:30:49 info: MongoDB is running
+2021-11-12 21:43:45 info: Server is running on PORT: 3000
+2021-11-12 21:43:47 info: MongoDB is running
+2021-11-12 21:44:10 info: Server is running on PORT: 3000
+2021-11-12 21:44:12 info: MongoDB is running
+2021-11-12 21:44:20 info: [passport]: get OAuthService
+2021-11-12 21:44:20 info: [SignIn]: validate it is registered
+2021-11-12 21:44:20 info: [isRegistered]: try to find user
+2021-11-12 21:44:20 info: [isRegistered]: user is not found
+2021-11-12 21:45:43 info: Server is running on PORT: 3000
+2021-11-12 21:45:45 info: MongoDB is running
+2021-11-12 21:45:52 info: [passport]: get OAuthService
+2021-11-12 21:45:52 info: [SignIn]: validate it is registered
+2021-11-12 21:45:52 info: [isRegistered]: try to find user
+2021-11-12 21:45:52 info: [isRegistered]: user is not found
+2021-11-12 21:46:20 info: Server is running on PORT: 3000
+2021-11-12 21:46:22 info: MongoDB is running
+2021-11-12 21:46:33 info: Server is running on PORT: 3000
+2021-11-12 21:46:35 info: MongoDB is running
+2021-11-12 21:47:00 info: Server is running on PORT: 3000
+2021-11-12 21:47:02 info: MongoDB is running
+2021-11-12 21:47:07 info: Server is running on PORT: 3000
+2021-11-12 21:47:09 info: MongoDB is running
+2021-11-12 21:47:15 info: [passport]: get OAuthService
+2021-11-12 21:47:15 info: [SignIn]: validate it is registered
+2021-11-12 21:47:15 info: [isRegistered]: try to find user
+2021-11-12 21:47:15 info: [isRegistered]: user is not found
+2021-11-12 21:47:31 info: Server is running on PORT: 3000
+2021-11-12 21:47:33 info: MongoDB is running
+2021-11-12 21:47:37 info: [passport]: get OAuthService
+2021-11-12 21:47:37 info: [SignIn]: validate it is registered
+2021-11-12 21:47:37 info: [isRegistered]: try to find user
+2021-11-12 21:47:38 info: [isRegistered]: user is not found
+2021-11-12 21:47:57 info: Server is running on PORT: 3000
+2021-11-12 21:47:59 info: MongoDB is running
+2021-11-12 21:48:03 info: [passport]: get OAuthService
+2021-11-12 21:48:03 info: [SignIn]: validate it is registered
+2021-11-12 21:48:03 info: [isRegistered]: try to find user
+2021-11-12 21:48:03 info: [isRegistered]: user is not found
+2021-11-12 21:48:27 info: Server is running on PORT: 3000
+2021-11-12 21:48:28 info: MongoDB is running
+2021-11-12 21:48:32 info: [passport]: get OAuthService
+2021-11-12 21:48:32 info: [SignIn]: validate it is registered
+2021-11-12 21:48:32 info: [isRegistered]: try to find user
+2021-11-12 21:48:33 info: [isRegistered]: user is not found
+2021-11-12 21:48:53 info: Server is running on PORT: 3000
+2021-11-12 21:48:55 info: MongoDB is running
+2021-11-12 21:49:12 info: Server is running on PORT: 3000
+2021-11-12 21:49:14 info: MongoDB is running
+2021-11-12 21:49:19 info: [passport]: get OAuthService
+2021-11-12 21:49:19 info: [SignIn]: validate it is registered
+2021-11-12 21:49:19 info: [isRegistered]: try to find user
+2021-11-12 21:49:19 info: [isRegistered]: user is found
+2021-11-12 21:49:19 info: [SignIn]: user is validated and return token
+2021-11-12 21:49:19 info: [passport]: user is signined
+2021-11-12 21:49:19 info: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MThlMzI1NmY5NDBkMWNjZmE5YmY2YWQiLCJyb2xlIjoiZ3Vlc3QiLCJuYW1lIjoi6rmA6rCA656MIiwiZXhwIjoxNjM2NzI0OTU5LCJpYXQiOjE2MzY3MjEzNTl9.qCYLjuyOUAKyQ_1oW0Ipaeq8i4p4SFFbpO-2Dwe4FFY
+2021-11-12 21:59:09 info: Server is running on PORT: 3000
+2021-11-12 22:00:52 info: Server is running on PORT: 3000
+2021-11-12 22:00:54 info: MongoDB is running
+2021-11-12 22:01:10 info: Server is running on PORT: 3000
+2021-11-12 22:01:12 info: MongoDB is running
